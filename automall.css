@@ -1,0 +1,102 @@
+.one p{background-color: #4444ab;
+color: white;
+font-size: 20px;
+text-align: center;
+padding: 30px;}
+.grid-container{display: grid;
+grid-template-columns: auto auto;
+background-color: whitesmoke;
+margin-top: -22px;
+}
+.logo img{opacity: 0.5;
+height: 80%;
+padding: 30px;}
+.logo p{    margin-top: -125px;
+    font-size: 30;
+    margin-left: 264px;
+    font-weight: 900;}
+.search i{margin-top: 20px;
+border: 2px solid grey;
+padding: 10px;}
+  
+
+form.search input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid rgb(26, 25, 25);
+    float: left;
+    width: 80%;
+    background: white;
+    color:black;
+    margin-top: 20px;
+  }
+  form.search button {
+    float: right;
+    width: 20%;
+    height: 30%;
+    padding: 10px;
+   
+    color:grey;
+    font-size: 17px;
+    
+    
+    cursor: pointer;
+  }
+  form.search button:hover {
+    background:black;
+  }
+  .top-nav {
+    overflow: hidden;
+    font-weight: bold;
+    display: inline-flex;
+    position:absolute;
+    margin-left: -316px;
+    margin-top: 13px;
+  }
+  
+  .top-nav a {
+ 
+    color:rgb(22, 18, 18);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    ;
+  }
+  
+  .top-nav a:hover {
+    background-color: #ddd;
+    color: rgb(173, 164, 164);
+  }
+  .main img{width: 100%;
+height: 100%;}
+.main p{    margin-top: -531px;
+text-align: center;
+font-weight: 700;
+font-size: 30px;}
+.main p span{font-size: 50px;
+font-weight:900;}
+.main button{background-color: red;
+padding: 20px;
+border-collapse: collapse;
+color: white;
+font-weight: bold;}
+.grid-containerr{display: grid;
+grid-template-columns: auto auto auto auto;
+
+margin-top: 333px;}
+.grid-containerr a{color: black;
+text-decoration: none;
+font-size: 20px;
+font-weight: bold;
+padding: 40px;
+
+}
+.grid-containerr a:hover{
+color:grey;
+text-decoration: underline 10px;}
+hr{font-weight: bold;}
+  
+  
+  
+  
